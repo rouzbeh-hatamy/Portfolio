@@ -4,77 +4,88 @@
     "description": "👋 I'm Rouzbeh Hatamy. Solution-driven front end lead adept at contributing to highly collaborative and Agile work environment and determining customer satisfaction. Proven experience delivering consumer-focused websites using frameworks like Node.js and React.js . Built products for desktop and mobile app users over 3+ years, meeting highest standard for modern web design, automation tests, user experience, best practices and Scrum. Designed and developed web applications across multiple REST APIs.",
     "section_name": {
       "about": "About me",
-      "projects": "Projects",
+      "projects": "Latest Projects",
       "skills": "Skills",
       "experience": "Experience"
     }
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "BizPay",
+      "startDate": "2021",
+      "description": "A payment assistant application for the Biz company. Biz is a network marketing company working with more than half a million marketers. This application made payment processing 60% faster by providing bank terminals and local wallets.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/biz/p1.png",
+        "images/portfolio/biz/p2.png",
+        "images/portfolio/biz/p3.png"
       ],
       "url": "",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-plain",
+          "name": "React"
         },
         {
           "class": "devicon-typescript-plain",
           "name": "TypeScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-nodejs-plain",
+          "name": "Node js"
         }
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "title": "BisFlow",
+      "startDate": "2021",
+      "description": "A consultancy application made for a Swedish startup. Multi-company dashboard for businesses with employees working hourly at different companies. This is a large scale project with a lot of third-party integrations, such as Stripe.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/bis/p1.png",
+        "images/portfolio/bis/p2.png",
+        "images/portfolio/bis/p3.png"
       ],
-      "url": "https://github.com",
+      "url": "",
       "technologies": [
         {
           "class": "devicon-react-original",
           "name": "React"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "class": "devicon-jest-plain",
+          "name": "Jest"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "Material UI"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "SCSS"
         }
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "MedClerX",
+      "startDate": "2021",
+      "description": "A medical startup launched in CA,USA. A PWA mobile app and a dashboard panel for sharing patients' data between medical departments. This startup is launched and funded by the United States Department of Health and Human Services.",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/med/p1.png",
+        "images/portfolio/med/p2.png",
+        "images/portfolio/med/p3.png"
       ],
-      "url": "https://github.com",
+      "url": "https://medclerx.com",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-plain",
+          "name": "React"
         },
         {
           "class": "devicon-typescript-plain",
           "name": "TypeScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-django-plain",
+          "name": "django"
         }
       ]
     }
