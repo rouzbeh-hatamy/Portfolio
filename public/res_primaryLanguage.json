@@ -81,28 +81,54 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "mainTech": ["Angular 8/9/10"],
+      "company": "EnigmaTeam",
+      "title": "Tech Lead",
+      "years": "02.2021 - present",
+      "mainTech": ["Typescript React"],
       "technologies": [
-        "REST API",
-        "RxJS",
+        "React js",
+        "TypeScript",
         "JavaScript",
         "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "Material Ui",
+        "scss",
+        "Atomize",
+        "Node js",
+        "PWA",
+        "MongoDB"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+      "company": "Dreamistic AB",
+      "title": "Front End Lead",
+      "years": "12.2020 - present",
+      "mainTech": ["React js"],
+      "technologies": [
+        "React js",
+        "redux thunk",
+        "scss",
+        "JavaScript",
+        "REST API",
+        "Cypress",
+        "Jest",
+        "Material Ui"
+      ]
+    },
+    {
+      "company": "Cloudware",
+      "title": "Frontend Developer",
+      "years": "08.2020 - 12.2020",
+      "mainTech": ["React js"],
+      "technologies": [
+        "React js",
+        "redux",
+        "context Api",
+        "REST API",
+        "PWA",
+        "JavaScript",
+        "Angular",
+        "Bootstrap"
+      ]
     }
   ]
 }
