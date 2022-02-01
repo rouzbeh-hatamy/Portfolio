@@ -3,12 +3,12 @@
 </div>
 
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
-<h2>Portfolio Template</h2>
+<h2>Portfolio</h2>
 
 <pre>
 ⭐ Easy to adapt and deploy portfolio project covering most important 
 sections(about, exp, skills, projects), inspired with solutions found 
-at GitHub. Check live preview(link below).
+at GitHub.
 </pre>
 
 <strong>:crown: advantages</strong>
