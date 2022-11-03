@@ -92,9 +92,25 @@
   ],
   "experience": [
     {
+      "company": "Doki",
+      "title": "Front End Team Lead",
+      "years": "05.2022 - present",
+      "mainTech": ["React.js / Flutter"],
+      "technologies": [
+        "React js",
+        "TypeScript",
+        "JavaScript",
+        "Bootstrap",
+        "Material Ui 5",
+        "scss",
+        "Golang",
+        "MongoDB"
+      ]
+    },
+    {
       "company": "EnigmaTeam",
       "title": "Tech Lead",
-      "years": "02.2021 - present",
+      "years": "02.2021 - 02.2022",
       "mainTech": ["Typescript React"],
       "technologies": [
         "React js",
@@ -112,7 +128,7 @@
     {
       "company": "Dreamistic AB",
       "title": "Front End Lead",
-      "years": "12.2020 - present",
+      "years": "12.2020 - 03.2022",
       "mainTech": ["React js"],
       "technologies": [
         "React js",
